@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AD3A32-E480-4D71-9BB6-71E25478BF01}|PruebaSegundoGrado\\PruebaSegundoGrado.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\PruebaSegundoGrado\\PruebaSegundoGrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4AD3A32-E480-4D71-9BB6-71E25478BF01}|PruebaSegundoGrado\\PruebaSegundoGrado.vcxproj|solutionrelative:PruebaSegundoGrado\\PruebaSegundoGrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1A2DD6-C6E1-49D6-872A-DE4EF2500D39}|SegundoGrado\\SegundoGrado.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\SegundoGrado\\SegundoGrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E1A2DD6-C6E1-49D6-872A-DE4EF2500D39}|SegundoGrado\\SegundoGrado.vcxproj|solutionrelative:SegundoGrado\\SegundoGrado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaSegundoGrado.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\PruebaSegundoGrado\\PruebaSegundoGrado.cpp",
+              "RelativeDocumentMoniker": "PruebaSegundoGrado\\PruebaSegundoGrado.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\PruebaSegundoGrado\\PruebaSegundoGrado.cpp",
+              "RelativeToolTip": "PruebaSegundoGrado\\PruebaSegundoGrado.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T11:16:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegundoGrado.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\SegundoGrado\\SegundoGrado.cpp",
+              "RelativeDocumentMoniker": "SegundoGrado\\SegundoGrado.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\SegundoGrado\\SegundoGrado\\SegundoGrado.cpp",
+              "RelativeToolTip": "SegundoGrado\\SegundoGrado.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T11:15:43.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

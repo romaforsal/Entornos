@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTestCalculator2º.cpp
+     Creando biblioteca D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\UnitTestCalculator\x64\Debug\UnitTestCalculator2º.lib y objeto D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\UnitTestCalculator\x64\Debug\UnitTestCalculator2º.exp
+LINK : warning LNK4232: el nombre UnitTestCalculator2º.dll contiene caracteres que no son ASCII, es posible que la DLL no se cargue en un sistema con página de códigos ANSI que no sea 1252
+  UnitTestCalculator2º.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\UnitTestCalculator\x64\Debug\UnitTestCalculator2º.dll

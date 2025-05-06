@@ -1,0 +1,8 @@
+﻿  Boss.cpp
+  Character.cpp
+D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\GameAppOO\GameAppOO\Character.cpp(20,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Enemy.cpp
+  GameAppOO.cpp
+  Player.cpp
+  Generando código...
+  GameAppOO.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\GameAppOO\x64\Debug\GameAppOO.exe

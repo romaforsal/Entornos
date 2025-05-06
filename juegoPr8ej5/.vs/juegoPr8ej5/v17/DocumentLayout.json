@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59D775C-40E5-4AD3-B344-A65941AF34CE}|juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F59D775C-40E5-4AD3-B344-A65941AF34CE}|juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.vcxproj|solutionrelative:juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B238776E-8E54-44E6-B737-3BB991432BFE}|juegoPr8ej5\\juegoPr8ej5.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoPr8ej5\\juegoPr8ej5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B238776E-8E54-44E6-B737-3BB991432BFE}|juegoPr8ej5\\juegoPr8ej5.vcxproj|solutionrelative:juegoPr8ej5\\juegoPr8ej5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0EAE17-9EA3-4F79-A24A-19B7DDA8ADD1}|juegoConFunciones\\juegoConFunciones.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFunciones\\juegoConFunciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE0EAE17-9EA3-4F79-A24A-19B7DDA8ADD1}|juegoConFunciones\\juegoConFunciones.vcxproj|solutionrelative:juegoConFunciones\\juegoConFunciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE083C6F-2EDE-4EFD-943D-F1CB04C5801C}|juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE083C6F-2EDE-4EFD-943D-F1CB04C5801C}|juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.vcxproj|solutionrelative:juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98AA822-5698-4DCB-AEC1-60BA791ECA70}|juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D98AA822-5698-4DCB-AEC1-60BA791ECA70}|juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.vcxproj|solutionrelative:juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "juegoConFuncionesConParametrosPorValor.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.cpp",
+              "RelativeDocumentMoniker": "juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.cpp",
+              "RelativeToolTip": "juegoConFuncionesConParametrosPorValor\\juegoConFuncionesConParametrosPorValor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T08:05:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "juegoConFuncionesConValoresDeRetorno.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.cpp",
+              "RelativeDocumentMoniker": "juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.cpp",
+              "RelativeToolTip": "juegoConFuncionesConValoresDeRetorno\\juegoConFuncionesConValoresDeRetorno.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T08:05:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "juegoConFuncionesConPasoPorReferencia.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.cpp",
+              "RelativeDocumentMoniker": "juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.cpp",
+              "RelativeToolTip": "juegoConFuncionesConPasoPorReferencia\\juegoConFuncionesConPasoPorReferencia.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T07:48:07.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "juegoConFunciones.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFunciones\\juegoConFunciones.cpp",
+              "RelativeDocumentMoniker": "juegoConFunciones\\juegoConFunciones.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoConFunciones\\juegoConFunciones.cpp",
+              "RelativeToolTip": "juegoConFunciones\\juegoConFunciones.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T08:05:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "juegoPr8ej5.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoPr8ej5\\juegoPr8ej5.cpp",
+              "RelativeDocumentMoniker": "juegoPr8ej5\\juegoPr8ej5.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\juegoPr8ej5\\juegoPr8ej5\\juegoPr8ej5.cpp",
+              "RelativeToolTip": "juegoPr8ej5\\juegoPr8ej5.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T09:27:38.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

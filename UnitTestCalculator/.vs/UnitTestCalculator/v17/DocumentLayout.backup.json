@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35665A79-860C-462C-BB5B-3184F119DA77}|Calculator\\Calculator.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35665A79-860C-462C-BB5B-3184F119DA77}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F6F983-6701-4E8C-AAAB-6CF813FE31D9}|UnitTestCalculator\\UnitTestCalculator.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\UnitTestCalculator\\UnitTestCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96F6F983-6701-4E8C-AAAB-6CF813FE31D9}|UnitTestCalculator\\UnitTestCalculator.vcxproj|solutionrelative:UnitTestCalculator\\UnitTestCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCFAF4DE-41CC-444B-9425-E506086849EF}|UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.vcxproj|D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCFAF4DE-41CC-444B-9425-E506086849EF}|UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.vcxproj|solutionrelative:UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTestCalculator2\u00BA.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.cpp",
+              "RelativeDocumentMoniker": "UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.cpp",
+              "RelativeToolTip": "UnitTestCalculator2\u00BA\\UnitTestCalculator2\u00BA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T07:48:32.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestCalculator.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeDocumentMoniker": "UnitTestCalculator\\UnitTestCalculator.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\UnitTestCalculator\\UnitTestCalculator.cpp",
+              "RelativeToolTip": "UnitTestCalculator\\UnitTestCalculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:15:06.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\Calculator\\Calculator.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cpp",
+              "ToolTip": "D:\\OneDrive - Centre d\u0027Estudis Monlau\\VisualStudio2022\\Proyecto\\UnitTestCalculator\\Calculator\\Calculator.cpp",
+              "RelativeToolTip": "Calculator\\Calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:24:30.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

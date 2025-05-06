@@ -1,0 +1,6 @@
+﻿  juegoConFuncionesConParametrosPorValor.cpp
+D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\juegoPr8ej5\juegoConFuncionesConParametrosPorValor\juegoConFuncionesConParametrosPorValor.cpp(16,9): error C3861: 'representarStats': no se encontró el identificador
+D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\juegoPr8ej5\juegoConFuncionesConParametrosPorValor\juegoConFuncionesConParametrosPorValor.cpp(17,9): error C3861: 'opcionJugador': no se encontró el identificador
+D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\juegoPr8ej5\juegoConFuncionesConParametrosPorValor\juegoConFuncionesConParametrosPorValor.cpp(18,9): error C3861: 'opcionEnemigo': no se encontró el identificador
+D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\juegoPr8ej5\juegoConFuncionesConParametrosPorValor\juegoConFuncionesConParametrosPorValor.cpp(19,20): error C3861: 'comprobar': no se encontró el identificador
+D:\OneDrive - Centre d'Estudis Monlau\VisualStudio2022\Proyecto\juegoPr8ej5\juegoConFuncionesConParametrosPorValor\juegoConFuncionesConParametrosPorValor.cpp(20,9): error C3861: 'reset': no se encontró el identificador
